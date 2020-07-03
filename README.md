@@ -1,2 +1,2 @@
 # Prerender
-> A servcice to prerender single page applications in order to enahance the SEO
+> A service to prerender single page applications in order to enhance the SEO
