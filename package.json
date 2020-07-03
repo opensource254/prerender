@@ -1,0 +1,28 @@
+{
+  "name": "prerender",
+  "version": "1.0.0",
+  "description": "A servcice to prerender single page applications in order to enahance the SEO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "dev": "DEBUG=prerender:* nodemon ./bin/www"
+  },
+  "keywords": [
+    "SEO",
+    "Prerender",
+    "SPA"
+  ],
+  "author": "opensource254",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "puppeteer": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
