@@ -20,9 +20,9 @@
     "dotenv": "^8.2.0",
     "express": "^4.22.1",
     "morgan": "^1.10.1",
-    "puppeteer": "^5.0.0"
+    "puppeteer": "^25.1.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.14"
   }
 }
