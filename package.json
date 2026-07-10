@@ -19,7 +19,7 @@
     "cookie-parser": "^1.4.7",
     "dotenv": "^8.2.0",
     "express": "^4.22.1",
-    "morgan": "^1.10.1",
+    "morgan": "^1.11.0",
     "puppeteer": "^25.1.0"
   },
   "devDependencies": {
