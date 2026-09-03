@@ -18,7 +18,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "dotenv": "^8.2.0",
-    "express": "^4.22.1",
+    "express": "^5.2.1",
     "morgan": "^1.11.0",
     "puppeteer": "^25.1.0"
   },
